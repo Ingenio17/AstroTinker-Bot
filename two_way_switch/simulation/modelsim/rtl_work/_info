@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/sdsha/Documents/IITB/eYRC/two_way_switch/simulation/modelsim
+vtb_two_way_switch
+Z1 !s110 1694939949
+!i10b 1
+!s100 o@n1Qh[:3TYYDNjbG1[Rc0
+I[?RGikHTF10hEUg2KNAUb3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1694939680
+8C:/Users/sdsha/Documents/IITB/eYRC/two_way_switch/tb_two_way_switch.v
+FC:/Users/sdsha/Documents/IITB/eYRC/two_way_switch/tb_two_way_switch.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1694939949.000000
+!s107 C:/Users/sdsha/Documents/IITB/eYRC/two_way_switch/tb_two_way_switch.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sdsha/Documents/IITB/eYRC/two_way_switch|C:/Users/sdsha/Documents/IITB/eYRC/two_way_switch/tb_two_way_switch.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+C:/Users/sdsha/Documents/IITB/eYRC/two_way_switch
+Z7 tCvgOpt 0
+vtwo_way_switch
+R1
+!i10b 1
+!s100 P>;EW@;bzZ[j7RF[JESh31
+IW??_WGfmLCCcJeSce1gF@3
+R2
+R0
+w1694939384
+8C:/Users/sdsha/Documents/IITB/eYRC/two_way_switch/two_way_switch.v
+FC:/Users/sdsha/Documents/IITB/eYRC/two_way_switch/two_way_switch.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/sdsha/Documents/IITB/eYRC/two_way_switch/two_way_switch.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sdsha/Documents/IITB/eYRC/two_way_switch|C:/Users/sdsha/Documents/IITB/eYRC/two_way_switch/two_way_switch.v|
+!i113 1
+R5
+R6
+R7

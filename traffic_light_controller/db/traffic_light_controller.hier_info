@@ -1,0 +1,10 @@
+|traffic_light_controller
+clock => green~reg0.CLK
+clock => yellow~reg0.CLK
+clock => red~reg0.CLK
+clock => state~3.DATAIN
+red << red~reg0.DB_MAX_OUTPUT_PORT_TYPE
+yellow << yellow~reg0.DB_MAX_OUTPUT_PORT_TYPE
+green << green~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

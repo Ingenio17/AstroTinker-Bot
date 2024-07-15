@@ -1,0 +1,80 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/sdsha/Documents/IITB/eYRC/task0/and_gate/simulation/qsim
+vand_gate
+Z1 !s110 1695029872
+!i10b 1
+!s100 >T`L:R6PKD<Dbfz`g:^h]1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I74z[nZ9iX3[iTbh?FeW=B1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1695029871
+Z5 8and_gate.vo
+Z6 Fand_gate.vo
+!i122 2
+L0 32 89
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1695029872.000000
+Z9 !s107 and_gate.vo|
+Z10 !s90 -work|work|and_gate.vo|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vand_gate_vlg_vec_tst
+!s110 1695029873
+!i10b 1
+!s100 HUOBRFYM:11J7MdZIkhD;0
+R2
+I83@Go=6BcYeJi5VP9XVzP1
+R3
+R0
+w1695029870
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+!i122 3
+L0 30 36
+R7
+r1
+!s85 0
+31
+!s108 1695029873.000000
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R11
+R12
+vhard_block
+R1
+!i10b 1
+!s100 cG=Ao3<3b_1=MXMOM393M0
+R2
+I5K7`<W<ADTd?b;7X9_=TS3
+R3
+R0
+R4
+R5
+R6
+!i122 2
+L0 122 34
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12

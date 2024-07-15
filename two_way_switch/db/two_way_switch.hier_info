@@ -1,0 +1,6 @@
+|two_way_switch
+s1 => z.IN0
+s2 => z.IN1
+z << z.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,38 @@
+# do traffic_light_controller.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:41:30 on Sep 18,2023
+# vlog -work work traffic_light_controller.vo 
+# -- Compiling module traffic_light_controller
+# -- Compiling module hard_block
+# 
+# Top level modules:
+# 	traffic_light_controller
+# End time: 10:41:30 on Sep 18,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:41:31 on Sep 18,2023
+# vlog -work work Waveform.vwf.vt 
+# -- Compiling module traffic_light_controller_vlg_vec_tst
+# 
+# Top level modules:
+# 	traffic_light_controller_vlg_vec_tst
+# End time: 10:41:31 on Sep 18,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -novopt -c -t 1ps -L cycloneive_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate_ver -L altera_lnsim_ver work.traffic_light_controller_vlg_vec_tst 
+# Start time: 10:41:31 on Sep 18,2023
+# Loading work.traffic_light_controller_vlg_vec_tst
+# Loading work.traffic_light_controller
+# Loading work.hard_block
+# Loading cycloneive_ver.cycloneive_io_obuf
+# Loading cycloneive_ver.cycloneive_io_ibuf
+# Loading cycloneive_ver.cycloneive_clkctrl
+# Loading cycloneive_ver.cycloneive_mux41
+# Loading cycloneive_ver.cycloneive_ena_reg
+# Loading cycloneive_ver.cycloneive_lcell_comb
+# Loading altera_ver.dffeas
+# Loading altera_ver.PRIM_GDFF_LOW
+# after#24
+# ** Note: $finish    : Waveform.vwf.vt(48)
+#    Time: 1 us  Iteration: 0  Instance: /traffic_light_controller_vlg_vec_tst
+# End time: 10:41:31 on Sep 18,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0

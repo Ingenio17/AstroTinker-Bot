@@ -1,0 +1,83 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/sdsha/Documents/IITB/eYRC/task0/ripple_carry_adder/simulation/modelsim
+vfull_adder
+Z1 !s110 1695030415
+!i10b 1
+!s100 4CLl=@iDLoddOXJ3lUNOH0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+II`A`hYU0M5ALEDi4SP=Xa0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1695014715
+8C:/Users/sdsha/Documents/IITB/eYRC/task0/ripple_carry_adder/full_adder.v
+FC:/Users/sdsha/Documents/IITB/eYRC/task0/ripple_carry_adder/full_adder.v
+!i122 1
+L0 3 9
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1695030415.000000
+!s107 C:/Users/sdsha/Documents/IITB/eYRC/task0/ripple_carry_adder/full_adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sdsha/Documents/IITB/eYRC/task0/ripple_carry_adder|C:/Users/sdsha/Documents/IITB/eYRC/task0/ripple_carry_adder/full_adder.v|
+!i113 1
+Z6 o-vlog01compat -work work
+Z7 !s92 -vlog01compat -work work +incdir+C:/Users/sdsha/Documents/IITB/eYRC/task0/ripple_carry_adder
+Z8 tCvgOpt 0
+vripple_carry_adder
+R1
+!i10b 1
+!s100 <NJQNCLVoEXnCQVoPK;^33
+R2
+IH^:W3o7U9MeS`>=Jk@8Y41
+R3
+R0
+w1695014849
+8C:/Users/sdsha/Documents/IITB/eYRC/task0/ripple_carry_adder/ripple_carry_adder.v
+FC:/Users/sdsha/Documents/IITB/eYRC/task0/ripple_carry_adder/ripple_carry_adder.v
+!i122 0
+L0 3 12
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/sdsha/Documents/IITB/eYRC/task0/ripple_carry_adder/ripple_carry_adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sdsha/Documents/IITB/eYRC/task0/ripple_carry_adder|C:/Users/sdsha/Documents/IITB/eYRC/task0/ripple_carry_adder/ripple_carry_adder.v|
+!i113 1
+R6
+R7
+R8
+vtb_ripple_carry_adder
+!s110 1695030416
+!i10b 1
+!s100 T9;ic3;;C0ozWl`L7AEdX2
+R2
+IDa[nYDbLIkdLE5>1zgB3;2
+R3
+R0
+w1695015140
+8C:/Users/sdsha/Documents/IITB/eYRC/task0/ripple_carry_adder/tb_ripple_carry_adder.v
+FC:/Users/sdsha/Documents/IITB/eYRC/task0/ripple_carry_adder/tb_ripple_carry_adder.v
+!i122 2
+L0 3 17
+R4
+r1
+!s85 0
+31
+!s108 1695030416.000000
+!s107 C:/Users/sdsha/Documents/IITB/eYRC/task0/ripple_carry_adder/tb_ripple_carry_adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sdsha/Documents/IITB/eYRC/task0/ripple_carry_adder|C:/Users/sdsha/Documents/IITB/eYRC/task0/ripple_carry_adder/tb_ripple_carry_adder.v|
+!i113 1
+R6
+R7
+R8

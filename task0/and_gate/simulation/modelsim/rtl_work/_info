@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/sdsha/Documents/IITB/eYRC/task0/and_gate/simulation/modelsim
+vand_gate
+Z1 !s110 1695029582
+!i10b 1
+!s100 b=h;f35E8Q3=MFLPm<`>Z0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IS7FzknWQg2^PzC;k5n9fJ2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1694542521
+8C:/Users/sdsha/Documents/IITB/eYRC/task0/and_gate/and_gate.v
+FC:/Users/sdsha/Documents/IITB/eYRC/task0/and_gate/and_gate.v
+!i122 0
+L0 1 8
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1695029582.000000
+!s107 C:/Users/sdsha/Documents/IITB/eYRC/task0/and_gate/and_gate.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sdsha/Documents/IITB/eYRC/task0/and_gate|C:/Users/sdsha/Documents/IITB/eYRC/task0/and_gate/and_gate.v|
+!i113 1
+Z6 o-vlog01compat -work work
+Z7 !s92 -vlog01compat -work work +incdir+C:/Users/sdsha/Documents/IITB/eYRC/task0/and_gate
+Z8 tCvgOpt 0
+vand_gate_test_bench
+R1
+!i10b 1
+!s100 0V00gNWTo_;ZL?B1?DaOc3
+R2
+Icl6@D?hSg_>_eJfbOR[`g0
+R3
+R0
+w1694543144
+8C:/Users/sdsha/Documents/IITB/eYRC/task0/and_gate/and_gate_test_bench.v
+FC:/Users/sdsha/Documents/IITB/eYRC/task0/and_gate/and_gate_test_bench.v
+!i122 1
+L0 3 17
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/sdsha/Documents/IITB/eYRC/task0/and_gate/and_gate_test_bench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sdsha/Documents/IITB/eYRC/task0/and_gate|C:/Users/sdsha/Documents/IITB/eYRC/task0/and_gate/and_gate_test_bench.v|
+!i113 1
+R6
+R7
+R8

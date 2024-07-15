@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/sdsha/Documents/IITB/eYRC/task0/sequence_detector/simulation/modelsim
+vsequence_detector
+!s110 1695030905
+!i10b 1
+!s100 lGO1Q1BZ`e0:hcmZA0=:E1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ISzePTL6ejX=TI0b90B1?50
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1695016354
+8C:/Users/sdsha/Documents/IITB/eYRC/task0/sequence_detector/sequence_detector.v
+FC:/Users/sdsha/Documents/IITB/eYRC/task0/sequence_detector/sequence_detector.v
+!i122 0
+L0 3 59
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1695030905.000000
+!s107 C:/Users/sdsha/Documents/IITB/eYRC/task0/sequence_detector/sequence_detector.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sdsha/Documents/IITB/eYRC/task0/sequence_detector|C:/Users/sdsha/Documents/IITB/eYRC/task0/sequence_detector/sequence_detector.v|
+!i113 1
+Z4 o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+C:/Users/sdsha/Documents/IITB/eYRC/task0/sequence_detector
+Z5 tCvgOpt 0
+vtb
+!s110 1695030906
+!i10b 1
+!s100 JkcG2O^bAn>NKCHHi03zX1
+R1
+I]An[n<zBhLNS0J8R@=eRY0
+R2
+R0
+w1695030775
+8C:/Users/sdsha/Documents/IITB/eYRC/task0/sequence_detector/simulation/modelsim/tb.v
+FC:/Users/sdsha/Documents/IITB/eYRC/task0/sequence_detector/simulation/modelsim/tb.v
+!i122 1
+L0 3 94
+R3
+r1
+!s85 0
+31
+!s108 1695030906.000000
+!s107 C:/Users/sdsha/Documents/IITB/eYRC/task0/sequence_detector/simulation/modelsim/tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sdsha/Documents/IITB/eYRC/task0/sequence_detector/simulation/modelsim|C:/Users/sdsha/Documents/IITB/eYRC/task0/sequence_detector/simulation/modelsim/tb.v|
+!i113 1
+R4
+!s92 -vlog01compat -work work +incdir+C:/Users/sdsha/Documents/IITB/eYRC/task0/sequence_detector/simulation/modelsim
+R5
